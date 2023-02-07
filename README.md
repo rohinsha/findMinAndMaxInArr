@@ -1,0 +1,2 @@
+# findMinAndMaxInArr
+Created with CodeSandbox
